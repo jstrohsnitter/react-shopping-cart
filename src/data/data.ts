@@ -1,6 +1,6 @@
 // src/data/data.js
 
-interface Item {
+export interface Item {
     _id: number;
     name: string;
     price: number;
